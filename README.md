@@ -21,4 +21,4 @@ MCT는 개인 저작물 공유 커뮤니티 서비스에서 이용되는 토큰�
 - 커뮤니티 활성화로 인한 트래픽 발생 -> 광고 수입
 
 ## 토큰 이코노미
-https://user-images.githubusercontent.com/35215439/47356416-fb3e4700-d6fe-11e8-8ed7-246776ff9a93.png
+<img src=https://user-images.githubusercontent.com/35215439/47356416-fb3e4700-d6fe-11e8-8ed7-246776ff9a93.png> </img>
